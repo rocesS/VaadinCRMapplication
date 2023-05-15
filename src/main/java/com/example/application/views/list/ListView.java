@@ -29,7 +29,7 @@ public class ListView extends VerticalLayout {
         configureForm();
 
         add(
-            getToolbar(),ś
+            getToolbar(),
             getContent()
         );
     }
